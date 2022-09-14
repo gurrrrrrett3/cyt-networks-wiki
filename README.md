@@ -81,7 +81,7 @@ The **Network Exporter** will make a single item type from your network availabl
 
 <img src="https://cdn.discordapp.com/attachments/965295564721897554/1019457535465508914/unknown.png">
 
-The **Network Vanilla Pusher** will push items from the network into a vanilla stoage block (Chest, Barrel, etc.) that it's connected to. This block is very useful for **Chest Shops**
+The **Network Vanilla Pusher** will push items from the network into a vanilla storage block (Chest, Barrel, etc.) that it's connected to. This block is very useful for **Chest Shops**
 
 ## Network Vanilla Grabber
 
@@ -129,7 +129,7 @@ The **Network Configurator** will be the most usful tool you'll use while using 
 
 <img src="https://media.discordapp.net/attachments/965295564721897554/1019679295762870413/unknown.png">
 
-The **Network Probe** will show you the size of your Network, and the amount of items in it. This is very important to have, as it will tell you if your network is over the node limit. Right click on your [Network Controller](#network-controller) to use it. I usually keep one in my [Hub](#step-1-build-your-network-hub).
+The **Network Probe** will show you the size of your Network, and the amount of items in it. This is very important to have, as it will tell you if your network is over the node limit. Right click on your [Network Controller](#network-controller) to use it. It's reccomended to keep it in your [Hub](#step-1-build-your-network-hub).
 
 ## Network Rakes
 
@@ -152,7 +152,7 @@ Switching from Cargo to Networks is a pretty easy process, however there are som
 
 ## Warning <!-- omit in toc -->
 
-**If your network is larger than `2000` nodes, you need to subnetwork. Use the [Subnetworking Guide](#subnetworking) below.  I highly reccomend doing subnetworking anyway as it will allow you to expand your network if your network goes above the `2000` node limit.**
+**If your network is larger than `2000` nodes, you need to subnetwork. Use the [Subnetworking Guide](#subnetworking) below.  It is highly recommended to do subnetworking anyway as it will allow you to expand your network if your network goes above the `2000` node limit.**
 
 # Single Network
 
@@ -163,7 +163,7 @@ This guide is to build a single network (under `2000` nodes). This network will 
 
 <br>
 
-Your Network Hub is the main place that you will be interacting with your network. I like to include workbenches and other utilities that I often use nearby to speed up crafting, close to my [Network Controller](#network-controller). I also reccomend to keep a chest nearby to store your netowrk tools, like a [Network Probe](#network-probe), [Network Configurator](#network-configurator), and [Network Rake](#network-rakes).
+Your Network Hub is the main place that you will be interacting with your network. Include workbenches and other utilities that you use often nearby to speed up crafting, close to your [Network Controller](#network-controller). Also, keep a chest nearby to store your network tools, like a [Network Probe](#network-probe), [Network Configurator](#network-configurator), and [Network Rake](#network-rakes).
 
 <br>
 
