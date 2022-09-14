@@ -5,6 +5,7 @@
 # Table of Contents <!-- omit in toc -->
 
 - [Introduction](#introduction)
+- [Notes](#notes)
 - [Blocks](#blocks)
   - [Network Controller](#network-controller)
   - [Network Bridge](#network-bridge)
@@ -29,6 +30,12 @@
   - [Step 3: Connect your storage](#step-3-connect-your-storage)
 - [Subnetworking](#subnetworking)
 
+# Notes
+
+Resource Packs used in this tutorial:
+- [Slimefun Beutified](https://github.com/54M44R/Slimefun-Beautified/releases) by [54M44R](https://github.com/54M44R)
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)
+
 # Blocks
 
 <img src="https://media.discordapp.net/attachments/965295564721897554/1019460528864755783/unknown.png" alt="Block header image">
@@ -45,7 +52,7 @@ The **Network Controller** does simply that, control your network! It is the cor
 
 <img src="https://media.discordapp.net/attachments/965295564721897554/1019457261711654912/unknown.png">
 
-The **Network Bridge** is an extremely simple block that's used to connect your network components together, and to your [Network Controller](#network-controller).
+The **Network Bridge** is an extremely simple block that's used to connect your network components to your [Network Controller](#network-controller).
 
 ## Network Monitor
 
@@ -69,7 +76,7 @@ The **Network Grabber** will "grab" items from the block it's connected to and p
 
 <img src="https://media.discordapp.net/attachments/965295564721897554/1019457463453483058/unknown.png">
 
-The **Network Importer** is a small storage container (9 slots) that will put items inside it into it into the network. This is very useful while you're transitioning from Cargo to Networks, as Cargo can interact with it.
+The **Network Importer** is a small storage container (9 slots) that will put items inside it into the network. This is very useful while you're transitioning from Cargo to Networks, as Cargo can interact with it.
 
 ## Network Exporter
 
@@ -123,13 +130,13 @@ Each Quantum Storage Unit is a different size, and you can use it's color to tel
 
 <img src="https://media.discordapp.net/attachments/965295564721897554/1019678675198808084/unknown.png">
 
-The **Network Configurator** will be the most usful tool you'll use while using Networks. Crouch right click on a Node to copy it's settings, then right click on another Node to paste the settings.
+The **Network Configurator** will be the most useful tool you'll use while using Networks. Crouch right click on a Node to copy it's settings, then right click on another Node to paste the settings.
 
 ## Network Probe
 
 <img src="https://media.discordapp.net/attachments/965295564721897554/1019679295762870413/unknown.png">
 
-The **Network Probe** will show you the size of your Network, and the amount of items in it. This is very important to have, as it will tell you if your network is over the node limit. Right click on your [Network Controller](#network-controller) to use it. It's reccomended to keep it in your [Hub](#step-1-build-your-network-hub).
+The **Network Probe** will show you the size of your Network, and the amount of items in it. This is very important to have, as it will tell you if your network is over the node limit. Right click on your [Network Controller](#network-controller) to use it. It's recommended to keep it in your [Hub](#step-1-build-your-network-hub).
 
 ## Network Rakes
 
@@ -180,6 +187,7 @@ Use [Network Bridges](#network-bridge) to conect groups of machines to your [Net
 
 ## Step 3: Connect your storage
 
+<img src="https://media.discordapp.net/attachments/965295564721897554/1019700875771510926/unknown.png?width=879&height=666">
 
 
 
